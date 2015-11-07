@@ -1,1 +1,1 @@
-edit file
+reconcile remote and local edits
