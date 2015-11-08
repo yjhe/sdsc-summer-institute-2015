@@ -1,1 +1,3 @@
 reconcile remote and local edits
+add for comment
+modfiied forcomment for pull
